@@ -101,7 +101,7 @@ datablock projectileData(QuakeGunProjectile : GunProjectile)
 };
 
 exec("./Support_Raycasts.cs");
-exec("./Support_LagComp.cs");
+// exec("./Support_LagComp.cs");
 exec("./Support_Decals.cs");
 
 exec("./Weapon_Gauntlet.cs");
