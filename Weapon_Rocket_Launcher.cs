@@ -145,7 +145,7 @@ datablock ProjectileData(QuakeRLProjectile)
 	verticalImpulse = 5;
 
 	muzzleVelocity = 42;
-	velInheritFactor = 0.1;
+	velInheritFactor = 0;
 
 	armingDelay = 00;
 	lifetime = 4000;
